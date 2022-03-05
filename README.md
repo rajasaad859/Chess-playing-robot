@@ -1,6 +1,6 @@
 # Autonomous Game-Playing Robot
 
-<img src="poster.jpg" alt="logo" height="900px">
+<img src="poster.jpg" alt="logo" height="500px">
 
 ## Installation:
 
