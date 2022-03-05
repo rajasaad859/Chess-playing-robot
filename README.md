@@ -28,7 +28,7 @@
 1. The Board Array is converted to FEN Notation and is fed to the Chess Engine (Stockfish) for counter Move Generation.
 1. Make sure that the Black Chess pieces are on the left side of the image (if not use the python rotate function as per your need).
 
-<img src="sample.png" alt="logo" height="900px">
+<img src="sample.png" alt="logo" height="700px">
 
 ## Inspired by:
 
